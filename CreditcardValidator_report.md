@@ -13,8 +13,6 @@
 В результате тестирования выявлены следующие дефекты:
 
 * https://github.com/usoltsevjr/Creditcard/issues/1
-* https://github.com/usoltsevjr/Creditcard/issues/2
-* https://github.com/usoltsevjr/Creditcard/issues/3
 * https://github.com/usoltsevjr/Creditcard/issues/4
 
 ## Описание процесса тестирования
